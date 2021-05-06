@@ -1,0 +1,2 @@
+com/example/gyroscope/BuildConfig.java
+ com.example.gyroscope.BuildConfig
